@@ -1,0 +1,19 @@
+﻿
+
+	2105: HAAS VF-2SS
+
+	Machine Serial Number: 1147146
+	Title: HAAS VF-2SS
+	Mac Address: 00-C0-08-91-2C-76 VF
+	IP4: 192.168.200.218
+	Machine Port: F-001
+	BlackBox HMI IP: kiosk2105 
+	Kiosk Port: F-004
+
+
+	• Shifts
+	- 1st shift goes from 5:00 am to 3:30 pm.
+	- 2nd shift is from 3:30 pm to 2:00 am.
+	- 3rd shift occurs from 5:00 am through 5:30 pm Friday through Sunday.
+	- The CNC Machine might occcationally run overnight.
+	- There is a 2 minute idle timer in place since the machine needs to be loaded and unloaded.

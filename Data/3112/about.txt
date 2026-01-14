@@ -1,0 +1,22 @@
+﻿
+
+	3112: Amada Dynasaw
+
+	Title: AMADA DYNASAW 430
+	Serial Number: 49000121
+	Model Number: DYNASAW430 A2034733-0402-01-2019
+	PLC Version: FX3U-485ADP-MB
+	PLC Model: FX3UC-4AD
+	PLC Serial Number:  1871011
+	HMI Model Number: PFXGP4401WADW
+	HMI Serial Number: 124830H013033 
+	Mac Address:  b8:27:eb:28:20:32  (The pi mac address)
+	IP4: usmn-3112Api
+	Machine Port: E-178
+	BlackBox HMI IP: kiosk3112
+	Kiosk Port: E-179
+
+
+	• Shifts
+	- 1st shift goes from 5:00 am to 3:30 pm.
+	- 2nd shift is from 3:30 pm to 2:00 am. 

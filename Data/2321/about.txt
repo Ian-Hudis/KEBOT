@@ -1,0 +1,18 @@
+﻿
+
+	2321: Lapmaster Grinder
+
+	Machine Serial Number: J-14187
+	Title: AC1000 Fine Grinder
+	Mac Address: 50-2d-f4-31-00-f8
+	Machine Port: F-023
+	IP4: 192.168.200.224
+	BlackBox HMI IP: kiosk2321
+	Kiosk Port: F-024
+
+
+	• Shifts
+	- 1st shift goes from 5:00 am to 3:30 pm.
+	- 2nd shift is from 3:30 pm to 2:00 am.
+	- 3rd shift occurs from 5:00 am through 5:30 pm Friday through Sunday.
+	- The CNC Machine will often run overnight.

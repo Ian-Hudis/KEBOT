@@ -1,0 +1,19 @@
+﻿
+
+	2102: HAAS Cell
+
+	Machine Serial Number: 69664
+	Title: HAAS Cell
+	Mac Address: 00-90-E8-A2-4D-B6
+	IP4: 192.168.200.220
+	Machine Port: F-010
+	BlackBox HMI IP: kiosk2102
+	Kiosk Port: F-007
+
+
+	• Shifts
+	- 1st shift goes from 5:00 am to 3:30 pm.
+	- 2nd shift is from 3:30 pm to 2:00 am.
+	- 3rd shift occurs from 5:00 am through 5:30 pm Friday through Sunday.
+	- The CNC Machine might occcationally run overnight.
+	- There is a 2 minute idle timer in place since the machine needs to be loaded and unloaded.

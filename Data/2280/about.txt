@@ -1,0 +1,18 @@
+﻿
+
+	2280: Mazak Multiplex
+
+	Machine Serial Number: 254145
+	Title: Mazatrol Matrix 2
+	Mac Address: 00-80-17-85-1E-1F
+	Machine Port: F-026
+	IP4: 192.168.200.212 (port 5280)
+	BlackBox HMI IP: kiosk2280 
+	Kiosk Port: F-025
+
+
+	• Shifts
+	- 1st shift goes from 5:00 am to 3:30 pm.
+	- 2nd shift is from 3:30 pm to 2:00 am.
+	- 3rd shift occurs from 5:00 am through 5:30 pm Friday through Sunday.
+	- The CNC Machine might occcationally run overnight.

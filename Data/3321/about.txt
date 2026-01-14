@@ -1,0 +1,22 @@
+﻿
+
+	3321: BDTronic Glue Machine
+
+	SQLDATANAME = BDTRON3321_ProdMonitor
+
+	Machine Serial Number: 000s0o8r
+	Title: Glue Machine (Beckhoff)
+	Mac Address: 00-01-05-61-7b-0d
+	IP4:  192.168.200.22
+	Machine Port: C-037
+	PLC Version: 2.5
+	PLC Model: CX2020            
+	PLC NAME: 5033_KEB
+	AMS Net Id: 192.168.200.25.1.1
+	BlackBox HMI IP: Kiosk3321
+	Kiosk Port: C-038
+
+
+	• Shifts
+	- 1st shift goes from 6:00 am to 2:30 pm.
+	- 2nd shift is from 2:30 pm to 1:00 am. 

@@ -1,0 +1,52 @@
+﻿
+	Update Logging
+
+	>1/6/2026 Version 0.0.1.3
+		•	Added MachineCycle Column (Machinetime cycle)
+
+	>12/3/2025 Version 0.0.1.3
+		•	Added Cycletime Value Filter
+
+	>12/1/2025 Version 0.0.1.3
+		•	Added Cycletime Analysis Reporting
+
+	>10/8/2025 Version 0.0.1.3
+		•	Added Functionality to Active Read Mode
+
+	>8/7/2025 Version 0.0.1.3
+		•	Added Operator Comment Column
+
+	>6/16/2025 Version 0.0.1.3
+		•	Fixed Data fillback issues: Timeout/fillback error occured when a timeout happened at the same time as another event such as "Offline".
+
+	>6/10/2025 Version 0.0.1.2
+		•	Fixed Data fillback issues.
+		•	Made fixes for the pie chart and percentages to prevent getting incorrect values. (Percentages on left still might not always match correctly by the pie chart.)
+
+	>6/6/2025 Version 0.0.1.2
+		•	Fixed Layout Issues.
+		•	Finished adding Pie Charts to the Runtime Report.
+
+	>6/3/2025 Version 0.0.1.2
+		•	Added zooming features to the Runtime History charts.
+
+	>5/29/2025 Version 0.0.1.2
+		•	Fixed issue with incorrect order from SQL Query. 
+		•	Got rid of loading redundancies for the datagrid and charts 
+
+	>5/23/2025 Version 0.0.1.1
+		•	Fixed Ghant Charts for the Runtime Viewtype. 
+
+	>5/14/2025 Version 0.0.1.1
+		•	Fixed Datagridview and Excel export issue. 
+		•	Removed pdf extracton since it was mediocre and I did not want to put more time into fixing it.
+
+	>5/12/2025  Version: 0.0.1.0
+		•	Runtime Viewtype added.
+
+	>5/8/2025	Version: 0.0.1.0		
+		•	Work center Machines Menu.
+		•	View type Menu
+		•	Commenting Capbabilities.
+		•	PDF and Excel exporting of data.
+
