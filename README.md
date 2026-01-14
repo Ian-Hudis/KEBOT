@@ -1,9 +1,9 @@
 # KEBOT
-This was an early beta I made for viewing SQL data for my company.  This was to automate reports in an easy to use way.
+This was an early beta I made for viewing SQL data for my company.  This was to automate reports in an easy-to-use way.
 
 To launch: 
 
-Go to the application file and click on KEBOT.exe. The Application will download.
+Go to the application file and click on KEBOT.application. The Application will download.
 
 
 For it to work, it has to have access to the SQL database.
