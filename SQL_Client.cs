@@ -172,7 +172,7 @@ namespace KEBOT
                 DT.Columns.Add("Operator_Comment", typeof(string)); // 37
                 DT.Columns.Add("Comment", typeof (string)); // 38
 
-                var cs = @"Server=DB-USMN-001\IN01;Database=ProductionMonitor; User ID=s4automation;Password=s4automation";
+                var cs = @"Server=SQL_ServerNAME;Database=ProductionMonitor; User ID=SQL_ID;Password=SQL_Password";
                 var con = new SqlConnection(cs);
                 //con.Open();
                 await con.OpenAsync();
@@ -352,7 +352,7 @@ namespace KEBOT
                 DT.Columns.Add("Operator_Comment", typeof(string)); // 37
                 DT.Columns.Add("Comment", typeof(string));
 
-                var cs = @"Server=DB-USMN-001\IN01;Database=ProductionMonitor; User ID=s4automation;Password=s4automation";
+                var cs = @"SQL_ServerNAME;Database=ProductionMonitor; User ID=SQL_ID;Password=SQL_Password";
                 var con = new SqlConnection(cs);
                 //con.Open();
                 await con.OpenAsync();
@@ -507,7 +507,7 @@ namespace KEBOT
         // give the machine table a link address
         public void SQL_UpdateMachineTable(string LinkAddress, string MachineBrand, string machine, Int64 id)
         {
-            var cs = @"Server=DB-USMN-001\IN01;Database=ProductionMonitor; User ID=s4automation;Password=s4automation";
+            var cs = @"Server=SQL_ServerNAME;Database=ProductionMonitor; User ID=SQL_ID;Password=SQL_Password";
             var con = new SqlConnection(cs);
             try
             {
@@ -533,7 +533,7 @@ namespace KEBOT
         public void SQL_InsertAComment(string LinkAddress, string WorkCenter, string writer, string comment)
         {
 
-            var cs = @"Server=DB-USMN-001\IN01;Database=ProductionMonitor; User ID=s4automation;Password=s4automation";
+            var cs = @"Server=SQL_ServerNAME;Database=ProductionMonitor; User ID=SQL_ID;Password=SQL_Password";
             var con = new SqlConnection(cs);
             try
             {
@@ -564,7 +564,7 @@ namespace KEBOT
         // update a row in the comment table
         public void SQL_UpdateACommment(string LinkAddress, string WorkCenter, string Writer, string Comment)
         {
-            var cs = @"Server=DB-USMN-001\IN01;Database=ProductionMonitor; User ID=s4automation;Password=s4automation";
+            var cs = @"Server=SQL_ServerNAME;Database=ProductionMonitor; User ID=SQL_ID;Password=SQL_Password";
             var con = new SqlConnection(cs);
             try
             {
@@ -609,7 +609,7 @@ namespace KEBOT
 
             SelectedComment selectedComment = new SelectedComment();
 
-            var cs = @"Server=DB-USMN-001\IN01;Database=ProductionMonitor; User ID=s4automation;Password=s4automation";
+            var cs = @"Server=SQL_ServerNAME;Database=ProductionMonitor; User ID=SQL_ID;Password=SQL_Password";
             var con = new SqlConnection(cs);
             try
             {
@@ -642,3 +642,4 @@ namespace KEBOT
 
     }
 }
+
